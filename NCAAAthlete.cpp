@@ -1,5 +1,5 @@
 
-#include "proj5-NCAAAthlete.hpp"
+#include "NCAAAthlete.hpp"
 #include <sstream>
 
 void NCAAAthlete::setID(int id){
