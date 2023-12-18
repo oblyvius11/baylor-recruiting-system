@@ -1,10 +1,4 @@
-//
-// Created by Aiden Grajo on 3/19/2023.
-//
-
-#ifndef PROJ5_ATHLETES_PROJ5_BUATHLETE_HPP
-#define PROJ5_ATHLETES_PROJ5_BUATHLETE_HPP
-#include "proj5-NCAAAthlete.hpp"
+#include "NCAAAthlete.hpp"
 #include <sstream>
 
 using namespace std;
@@ -25,4 +19,3 @@ public:
 
 };
 
-#endif //PROJ5_ATHLETES_PROJ5_BUATHLETE_HPP
