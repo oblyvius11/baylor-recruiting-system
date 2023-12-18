@@ -1,8 +1,4 @@
-//
-// Created by aegra on 3/19/2023.
-//
-
-#include "proj5-BUAthlete.hpp"
+#include "BUAthlete.hpp"
 
 void BUAthlete::setEvaluation(int a) {
     evaluation = a;
