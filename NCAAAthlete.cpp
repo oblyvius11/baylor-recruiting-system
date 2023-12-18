@@ -1,9 +1,3 @@
-//
-//  NCAAAthlete.cpp
-//
-//
-//  Created by Aars Matthew on 2/12/18.
-//
 
 #include "proj5-NCAAAthlete.hpp"
 #include <sstream>
