@@ -1,20 +1,3 @@
-/**
- * file: NCAAAthlete.hpp
- * author: Prof. Aars
- * course: CSI 1440
- * assignment: project 6
- * due date: 2/26/2018
- *
- * date modified: 2/18/2020
- *      - changed to Coach Aranda
- * date modified: 2/14/2018
- *      - file created
- *
- * Defines the NCAAAthlete class.
- */
-
-#ifndef NCAAATHLETE_H
-#define NCAAATHLETE_H
 
 #include <string>
 
@@ -160,5 +143,3 @@ public:
      */
     string toString();
 };
-
-#endif
