@@ -1,11 +1,5 @@
-//
-// Created by aegra on 3/19/2023.
-//
 
-#ifndef PROJ5_ATHLETES_PROJ5_BUATHLETELIST_HPP
-#define PROJ5_ATHLETES_PROJ5_BUATHLETELIST_HPP
-
-#include "proj5-BUAthlete.hpp"
+#include "BUAthlete.hpp"
 
 class BUAthleteList : public BUAthlete {
 private:
@@ -31,4 +25,4 @@ public:
 
 string convertPostoStr(Position a);
 
-#endif //PROJ5_ATHLETES_PROJ5_BUATHLETELIST_HPP
+
