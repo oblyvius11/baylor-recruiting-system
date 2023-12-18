@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "proj5-BUAthleteList.hpp"
+#include "BUAthleteList.hpp"
 
 using namespace std;
 
@@ -69,7 +69,7 @@ int main() {
     inFile.close();
     inFile.clear();
 
-    inFile.open("proj5-BUAthlete.csv");
+    inFile.open("BUAthlete.csv");
 
     if (inFile) {
         cout << "File opened." << endl;
